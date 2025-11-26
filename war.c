@@ -17,7 +17,7 @@ int main() {
     struct Territorio mapa[5]; 
     int i;
 
-    printf("=== SETUP DO MAPA (NÍVEL NOVATO) ===\n");
+    printf("=== SETUP DO MAPA ===\n");
 
     // 3. Entrada de Dados
     for(i = 0; i < 5; i++) {
